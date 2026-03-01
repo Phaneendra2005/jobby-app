@@ -3,6 +3,8 @@
 A modern job search web application built using React.  
 This application allows users to log in, browse job listings, apply filters, search for jobs, and view detailed job descriptions.
 
+**Live Demo:** [https://dashing-salmiakki-48a3e1.netlify.app/]
+
 The project demonstrates routing, protected routes, API integration, state management, and responsive UI design.
 
 ---
