@@ -83,12 +83,18 @@ npm start
 
 ## 📸 Screenshots
 
-(Add screenshots of the following pages)
+Login Page:
+![Picture1](https://github.com/user-attachments/assets/67fab583-d856-4a7e-8573-b83016a03ecc)
 
-- Login Page
-- Home Page
-- Jobs Page
-- Job Details Page
+Home Page:
+![Picture1](https://github.com/user-attachments/assets/70f67bb6-7e1c-4bd4-8ceb-8d54894f9435)
+
+Jobs Page:
+![Picture3](https://github.com/user-attachments/assets/dc370b49-fcee-4447-9501-626bedd40f45)
+
+Job Details Page:
+![Picture1](https://github.com/user-attachments/assets/7fa83db1-e3d3-49e3-8ea6-c062775cc7ec)
+
 
 ---
 
